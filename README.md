@@ -18,7 +18,8 @@ Componentes customizados e reutilizáveis.
 <li>Visual Studio Code: Ambiente de desenvolvimento.</li>
 <li>Flutlab: Utilizado inicialmente para prototipagem.</li>
 </ul>
-## 🛠 Como Executar o Projeto
+
+<h2>🛠 Como Executar o Projeto</h2>
 
 1. Clone este repositório:
    ```bash
