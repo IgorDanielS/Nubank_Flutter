@@ -11,12 +11,13 @@ Uso de Cards e ListTiles para organizar a interface.
 Componentes customizados e reutilizáveis.
 
 
-🚀 Tecnologias Utilizadas
-Flutter: Framework para desenvolvimento de aplicações multiplataforma.
-Dart: Linguagem de programação para desenvolvimento em Flutter.
-Visual Studio Code: Ambiente de desenvolvimento.
-Flutlab: Utilizado inicialmente para prototipagem.
-
+<h2>🚀 Tecnologias Utilizadas</h2>
+<ul>
+<li>Flutter: Framework para desenvolvimento de aplicações multiplataforma.</li>
+<li>Dart: Linguagem de programação para desenvolvimento em Flutter.</li>
+<li>Visual Studio Code: Ambiente de desenvolvimento.</li>
+<li>Flutlab: Utilizado inicialmente para prototipagem.</li>
+</ul>
 ## 🛠 Como Executar o Projeto
 
 1. Clone este repositório:
@@ -34,12 +35,14 @@ Flutlab: Utilizado inicialmente para prototipagem.
 
 
 
-📚 Aprendizados
-Desenvolvimento UI: Utilização de widgets complexos como Card, ListTile, Row, Column, IconButton, e mais.
-Integração com Imagens e Assets: Utilização de imagens no app através da pasta assets.
-Personalização de Componentes: Uso do ButtonStyle, MaterialStateProperty, e customização de botões e ícones.
-Deploy e Versionamento: Controle de versão usando Git e integração com o GitHub.
+<h2>📚 Aprendizados</h2>
+<ul>
+<li>Desenvolvimento UI: Utilização de widgets complexos como Card, ListTile, Row, Column, IconButton, e mais.</li>
+<li>Integração com Imagens e Assets: Utilização de imagens no app através da pasta assets.</li>
+<li>Personalização de Componentes: Uso do ButtonStyle, MaterialStateProperty, e customização de botões e ícones.</li>
+<li>Deploy e Versionamento: Controle de versão usando Git e integração com o GitHub.</li>
+</ul>
 
-
-📅 Contexto Acadêmico
-Este projeto foi desenvolvido como parte de uma atividade da disciplina Desenvolvimento de Aplicações Móveis do curso de Análise e Desenvolvimento de Sistemas. Ele representa uma oportunidade de colocar em prática os conhecimentos sobre desenvolvimento de aplicações mobile multiplataforma com Flutter.
+<H2>📅 Contexto Acadêmico</H2>
+<p>Este projeto foi desenvolvido como parte de uma atividade da disciplina Desenvolvimento de Aplicações Móveis do curso de Análise e Desenvolvimento de Sistemas. Ele representa uma oportunidade de colocar em prática os conhecimentos sobre desenvolvimento de aplicações mobile multiplataforma com Flutter.
+</p>
