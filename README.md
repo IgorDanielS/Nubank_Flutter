@@ -21,6 +21,15 @@ Flutlab: Utilizado inicialmente para prototipagem.
    ```bash
    git clone https://github.com/IgorDanielS/Nubank_Flutter.git
 
+2. Instale as depedências
+   ```bash
+   flutter pub get
+
+3. Execute o projeto
+   ```bash
+   flutter run
+
+
 
 📚 Aprendizados
 Desenvolvimento UI: Utilização de widgets complexos como Card, ListTile, Row, Column, IconButton, e mais.
