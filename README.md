@@ -1,7 +1,9 @@
-Nubank Flutter Clone
-Este é um projeto desenvolvido como parte de uma atividade da faculdade, com o objetivo de aplicar e consolidar meus conhecimentos adquiridos durante o curso. A ideia foi recriar a interface e algumas funcionalidades básicas do aplicativo do Nubank utilizando Flutter, aproveitando para explorar os conceitos de design responsivo, gerenciamento de estado, e integração com widgets avançados.
+<h1>Nubank Flutter Clone</h1>
 
-📱 Funcionalidades
+<p>Este é um projeto desenvolvido como parte de uma atividade da faculdade, com o objetivo de aplicar e consolidar meus conhecimentos adquiridos durante o curso. A ideia foi recriar a interface e algumas funcionalidades básicas do aplicativo do Nubank utilizando Flutter, aproveitando para explorar os conceitos de design responsivo, gerenciamento de estado, e integração com widgets avançados.
+</p>
+
+<h2>📱 Funcionalidades </h2>
 Interface inspirada no app Nubank.
 Exibição de saldo e fatura.
 Simulação de ações como PIX, pagamentos, transferências.
