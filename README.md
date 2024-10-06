@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nubank
 
 A new Flutter project created with FlutLab - https://flutlab.io
@@ -17,3 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+=======
+# Nubank_Flutter
+>>>>>>> 513ae4d381f77df00c356cdf088e2a319b5fc3ae
